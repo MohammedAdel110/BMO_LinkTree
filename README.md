@@ -11,6 +11,7 @@ An interactive retro pixel-art link hub and aesthetic bio page featuring BMO fro
 - **Synthesized 8-Bit Audio**: Retro Game Boy audio synthesized in real time via the Web Audio API.
 - **Responsive Social Hub**:
   - Instagram (dual split card: Main `@amer4verse` & Art `@mangoscribble`)
+  - YouTube (`@onlybmo`)
   - Kick (`@onlybmo`)
   - Discord Community
   - TikTok (`@onlybmo_`)

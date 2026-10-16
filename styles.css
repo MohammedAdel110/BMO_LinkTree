@@ -925,6 +925,9 @@ h1 span {
 
 .ig-card .badge,
 .instagram .badge { background: linear-gradient(135deg, #f9ce34, #ee2a7b, #6228d7); color: #fff; }
+.youtube .badge { background: linear-gradient(135deg, #ff2222, #cc0000); color: #fff; }
+.youtube .badge svg { width: 22px; height: 22px; }
+.youtube:hover { box-shadow: 0 16px 36px rgba(8,4,20,.32), 0 0 24px rgba(255, 0, 0, .26); }
 .kick .badge { background: #111; color: #53fc18; }
 .kick .badge svg { width: 22px; height: 22px; }
 .kick:hover { box-shadow: 0 16px 36px rgba(8,4,20,.32), 0 0 24px rgba(83, 252, 24, .18); }
